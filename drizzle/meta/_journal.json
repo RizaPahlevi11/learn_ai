@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774013434165,
+      "tag": "0000_light_ben_urich",
+      "breakpoints": true
+    }
+  ]
+}

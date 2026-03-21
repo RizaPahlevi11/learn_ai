@@ -8,6 +8,13 @@
       "when": 1774013434165,
       "tag": "0000_light_ben_urich",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774083303226,
+      "tag": "0001_slim_mephisto",
+      "breakpoints": true
     }
   ]
 }
